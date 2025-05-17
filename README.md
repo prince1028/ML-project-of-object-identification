@@ -24,3 +24,4 @@ self-made model, to achieve accurate object recognition on the CIFAR-10 dataset
 
 [Documentation](https://github.com/adityakedia006/Object_Recognition/blob/main/Report.pdf)
 
+"# ML-project-of-object-identification" 
